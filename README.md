@@ -1,1 +1,2 @@
-Basics of java using loops
+## 100 Days Java Learning Challenge 🚀
+
